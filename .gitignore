@@ -1,0 +1,4 @@
+mnist_local.npz
+.ipynb_checkpoints/
+__pycache__/
+.venv/
